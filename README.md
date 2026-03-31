@@ -17,6 +17,7 @@ OWASP Top 10 & MITRE ATT&CK
 CTF Writeups (THM, HTB)
 Basic Reverse Engineering
 Secure Architecture & System Design
+
 🧪 Projects & Labs Included
 Ethical Hacking Labs
 Penetration Testing Reports
@@ -25,6 +26,7 @@ CTF Writeups
 TryHackMe & Hack The Box Solutions
 Bug Hunting Practice Reports
 Mobile & APK Analysis (Beginner Level)
+
 📘 Featured Pentest Reports
 Reconnaissance
 Vulnerability Discovery
@@ -32,6 +34,7 @@ Exploitation
 Privilege Escalation
 Post-Exploitation Findings
 Mitigation & Recommendations
+
 
 🛠️ Tools I Use
 Nmap
