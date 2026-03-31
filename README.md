@@ -3,6 +3,7 @@
 <p align="center"><img src="https://i.imgur.com/FSZKqVd.gif" width="850"/></p>
 <h1 align="center">🟣💀 DEVAN PRAMOD — ZERO-DAY ARCHITECT</h1>
 <h3 align="center">Cybersecurity Researcher • Ethical Hacker • Digital Forensics Alchemist</h3>
+
 🟪 NEURAL TERMINAL v9.8 — ROOT ACCESS
 ╔══════════════════════════════════════════════════════════════╗
 ║  USER: DEVAN_X01                                             ║
@@ -10,6 +11,7 @@
 ║  STRIKE FORCE: CYBER OPS DIVISION Ω                          ║
 ║  THREAT ENGINE: ACTIVE ⟳ AUTONOMOUS                           ║
 ╚══════════════════════════════════════════════════════════════╝
+
 🟪 BOOT.ANIMATION — SYSTEM WAKING UP
 > Powering quantum kernel...
 > Enabling multi-vector exploit engines...
@@ -17,33 +19,17 @@
 > Starting DFIR neural graph mapper...
 > Linking 200+ reconnaissance modules...
 > Status: GOD-TIER ONLINE
+
 🟪 GLITCH DIVIDER
 <p align="center"><img src="https://i.imgur.com/yecQZQ2.gif" width="600"/></p>
+
 🟪 SKILL.MATRIX — GOD MODE WEAPONS UPGRADE
-🛡 CYBER WEAPONS
-
-
-
-
-
-
-
-
-
-
 
 
 💻 LANGUAGES
-
-
-
-
-
-
-🔮 OS REALM
-
-
-
+  English
+  Hindi
+  Malayalam
 
 
 
@@ -53,10 +39,15 @@ STATUS	PROJECT	DESCRIPTION	TECH
 🟢 DEPLOYED	PortSwigger Exploit Labs	XSS, SSTI, SQLi, RCE, SSRF	Burp Suite
 🟡 RUNNING	Bandit Wargame	Linux escalation & exploit crafting	Bash
 🔥 NEW	AI Security Framework	Analyzing LLM exploits & prompt injection	Python
+
+
 🟪 HOLOGRAPHIC VISITOR COUNTER vX
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DevanPramod&color=8f00ff&style=for-the-badge&label=VISITOR+LOG"> </p>
+
 🟪 NEON SYSTEM GRAPH — GITHUB STATS
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DevanPramod&show_icons=true&theme=radical&hide_border=true&icon_color=ae00ff&title_color=ff00ff" height="165"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevanPramod&theme=radical&hide_border=true" height="165"> </p>
+
+
 🟪 ULTRA-3D ASCII ART — GOD MODE
 ██████╗ ██████╗ ██████╗      ████████╗██╗██████╗ ███████╗██████╗ 
 ██╔══██╗██╔══██╗██╔══██╗     ╚══██╔══╝██║██╔══██╗██╔════╝██╔══██╗
@@ -64,6 +55,10 @@ STATUS	PROJECT	DESCRIPTION	TECH
 ██╔══██╗██╔══██╗██╔══██╗╚════╝  ██║   ██║██╔══██╗██╔══╝  ██╔══██╗
 ██║  ██║██║  ██║██║  ██║        ██║   ██║██║  ██║███████╗██║  ██║
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝        ╚═╝   ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+
+
+
+
 🟪 CONTACT MATRIX
 
 📧 Email → devanpramod905@gmail.com
