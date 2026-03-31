@@ -93,9 +93,6 @@ Status   : [▓▓▓▓▓▓▓░░░] Learning & Growing
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=DevanPramod&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevanPramod&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=ffffff" height="165"/>
